@@ -4,8 +4,8 @@
 - Họ và tên:Trần Hoài Nam
 - Mã số sinh viên:24810320642
 - Lớp:D19QTANM1
-- Tên môn học:Lập trình C# / Windows Forms
-- Tên bài tập:ÔN TẬP WINDOW FORM
+- Lớp học phần:Lập trình .NET -Mã lớp:D19QTANM1
+
 ## II. DANH SÁCH BÀI TẬP HOÀN THÀNH & TỰ ĐÁNH GIÁ
 
 | Bài tập | Tiêu đề bài tập | Trạng thái | Mức độ hoàn thành (%) |
