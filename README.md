@@ -3,8 +3,8 @@
 ## THÔNG TIN SINH VIÊN
 - Họ và tên:Trần Hoài Nam
 - Mã số sinh viên:24810320642
-- Lớp:D19QTANM1
-- Lớp học phần:Lập trình .NET -Mã lớp:D19QTANM1
+- Lớp học phần:Lập trình .NET
+- Mã lớp:D19QTANM1
 - Link Repository: https://github.com/namth24810320642-oss/laptrinhnet-24810320642-TranHoaiNam.git
 
 ## II. DANH SÁCH BÀI TẬP HOÀN THÀNH & TỰ ĐÁNH GIÁ
