@@ -6,7 +6,23 @@
 - Lớp:D19QTANM1
 - Tên môn học:Lập trình C# / Windows Forms
 - Tên bài tập:ÔN TẬP WINDOW FORM
+## II. DANH SÁCH BÀI TẬP HOÀN THÀNH & TỰ ĐÁNH GIÁ
 
+| Bài tập | Tiêu đề bài tập | Trạng thái | Mức độ hoàn thành (%) |
+| :---: | :--- | :---: | :---: |
+| **Bài 1** | Quản lý Đặt phòng Khách sạn (CRUD & Data Binding) | Hoàn thành | 100% |
+| **Bài 2** | Quản lý Hồ sơ Nhân sự & Lương - HR & Payroll (File CSV & Timer) | Hoàn thành | 100% |
+| **Bài 3** | Hệ thống Quản lý Trường học & Đào tạo (Kiến trúc MDI Container) | Hoàn thành | 100% |
+| **Bài 4** | Bảng điều khiển Tổng hợp Báo cáo Kho hàng (Async/Await & Cancellation) | Hoàn thành | 100% |
+| **Bài 5** | Mô phỏng Giám sát Cảnh báo IoT Real-time (Cross-Thread Safety & `Invoke`) | Hoàn thành | 100% |
+
+---
+
+### Đánh giá chi tiết kỹ thuật đạt được:
+- **Kiến trúc & Designer**: Tách biệt 100% giữa giao diện (`Designer.cs`) và logic xử lý (`.cs`), hỗ trợ hiển thị giao diện trực quan trực tiếp trên Visual Studio Designer trước khi run (Design-time visibility).
+- **Tính chuẩn xác dữ liệu**: Áp dụng C# 9.0/10.0+ (`BindingList<T>`, `BindingSource`, Regex validation, xử lý Nullable an toàn).
+- **Hiệu năng & Bất đồng bộ**: Sử dụng `async/await`, `Task.Run` kết hợp `CancellationTokenSource` giúp giao diện luôn mượt mà (không bị đơ/Not Responding).
+- **An toàn đa luồng (Thread Safety)**: Đảm bảo quy tắc `this.InvokeRequired` / `this.Invoke` khi cập nhật UI từ Background Thread ở ứng dụng Real-time.
 ## KẾT QUẢ THỰC HÀNH
 # Bài1
 
